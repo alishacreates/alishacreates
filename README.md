@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Alisha 👋
 
-<!--
-**alishacreates/alishacreates** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Computer Science Student
 
-Here are some ideas to get you started:
+Passionate about building web applications and exploring AI-powered solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+
+- JavaScript
+- React
+- Python
+- Next.js
+- C++
+- HTML/CSS
+- Tailwind CSS
+
+## 🌱 Currently Learning
+- DSA
+
+## 📌 Featured Projects
+
+### Netflix Clone
+Built a responsive Netflix-inspired UI using HTML and Tailwind CSS.
+
+### Authentication System
+Created login and signup functionality with form validation.
+
+### React Projects
+Developed interactive applications while learning React fundamentals.
+
+## 🎯 2026 Goals
+
+- Build 2 full-stack projects
+- Solve 100 problems on Leetcode
+- Contribute to open source
+
+## 📫 Connect With Me
+
+Email: alishaxvi12@gmail.com
+LinkedIn: https://www.linkedin.com/in/alisha-678550374
