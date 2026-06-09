@@ -1,10 +1,10 @@
 # Hi, I'm Alisha 👋
 
-💻 Computer Science Student
+Computer Science Student
 
 Passionate about building web applications and exploring AI-powered solutions.
 
-## 🚀 Tech Stack
+## Tech Stack
 
 - JavaScript
 - React
@@ -14,10 +14,10 @@ Passionate about building web applications and exploring AI-powered solutions.
 - HTML/CSS
 - Tailwind CSS
 
-## 🌱 Currently Learning
+## Currently Learning
 - DSA
 
-## 📌 Featured Projects
+## Featured Projects
 
 ### Netflix Clone
 Built a responsive Netflix-inspired UI using HTML and Tailwind CSS.
@@ -28,7 +28,7 @@ Created login and signup functionality with form validation.
 ### React Projects
 Developed interactive applications while learning React fundamentals.
 
-## 🎯 2026 Goals
+## 2026 Goals
 
 - Build 2 full-stack projects
 - Solve 100 problems on Leetcode
