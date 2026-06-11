@@ -65,9 +65,10 @@ A full-stack affiliate product platform with separate user and admin dashboards.
 * Backend API
 * Database integration
 
-### 🎬 Netflix Clone
+### Adaptive Placement Optimizer
 
-Responsive Netflix-inspired UI built with HTML, CSS, and Tailwind CSS.
+A Java Swing desktop application that helps students optimize placement preparation through intelligent, adaptive study planning based on priority scoring.
+
 
 ## 🎯 2026 Goals
 
