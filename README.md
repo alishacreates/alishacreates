@@ -76,6 +76,6 @@ Responsive Netflix-inspired UI built with HTML, CSS, and Tailwind CSS.
 
 ## 📫 Connect With Me
 
-📧 Email: [alishaxvi12@gmail.com](mailto:alishaxvi12@gmail.com)
+📧 Email: alishaofficial.xvi@gmail.com
 
 💼 LinkedIn: [www.linkedin.com/in/alisha-678550374](http://www.linkedin.com/in/alisha-678550374)
