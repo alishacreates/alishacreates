@@ -24,6 +24,7 @@ Passionate about building modern web applications with React, Next.js, Node.js, 
 ### Database
 
 * MongoDB
+* SQL
 
 ### Languages
 
@@ -36,7 +37,6 @@ Passionate about building modern web applications with React, Next.js, Node.js, 
 * Data Structures & Algorithms
 * System Design Fundamentals
 * Authentication & Authorization
-* Full-Stack Application Architecture
 
 ## 📌 Featured Projects
 
