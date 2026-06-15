@@ -104,7 +104,7 @@ A Java Swing desktop application that helps students optimize placement preparat
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=alishacreates\&theme=github-dark-blue)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=github_dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=alishacreates\&layout=compact\&theme=github_dark)
 
 ---
 
