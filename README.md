@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Alisha 👋
+# Hi, I'm Alisha
 
 ### 💻 Computer Science Student | Full-Stack Developer
 
@@ -93,16 +93,16 @@ A Java Swing desktop application that helps students optimize placement preparat
 
 * 🚀 Build and deploy 2 production-ready full-stack applications
 * 💯 Solve 100+ LeetCode problems
-* 🤖 Explore the AI/ML domain
+* 🤖 Learn System Design
 * 🌟 Contribute to open source projects
 
 ---
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=github_dark)
+![](https://github-readme-stats.vercel.app/api?username=alishacreates\&show_icons=true\&theme=github_dark)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME\&theme=github-dark-blue)
+![](https://github-readme-streak-stats.herokuapp.com/?user=alishacreates\&theme=github-dark-blue)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=github_dark)
 
