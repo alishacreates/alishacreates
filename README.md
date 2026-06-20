@@ -54,6 +54,7 @@ Passionate about building modern web applications using React, Next.js, Node.js,
 * System Design Fundamentals
 * Authentication & Authorization
 * Docker
+* AWS
 
 ---
 
