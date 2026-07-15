@@ -2,14 +2,15 @@
 
 # Hi 👋, I'm Alisha
 
-### Full-Stack Developer | Computer Science Student
+### 💻 Full-Stack Developer | Computer Science Student
 
-I build scalable, responsive, and modern web applications using the **MERN Stack** and **Next.js**. I enjoy solving real-world problems by developing complete products—from intuitive user interfaces to robust backend APIs and databases.
+I build modern, scalable, and responsive web applications using the **MERN Stack** and **Next.js**. I'm passionate about turning ideas into production-ready products by working across the frontend, backend, and database layers.
 
-💡 Currently focused on Full-Stack Development, Data Structures & Algorithms, and System Design.
+🌱 Currently learning **System Design**, **AWS**, and **Docker**
+🚀 Open to **Software Engineering**, **Full-Stack Development**, and **Frontend Development** opportunities.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alisha-678550374)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alishaofficial.xvi@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/alisha-678550374)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:alishaofficial.xvi@gmail.com)
 
 </div>
 
@@ -17,107 +18,101 @@ I build scalable, responsive, and modern web applications using the **MERN Stack
 
 # 🚀 Tech Stack
 
-### Frontend
+### 🎨 Frontend
 
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material_UI-007FFF?logo=mui&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react\&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript\&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3\&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss\&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material_UI-007FFF?logo=mui\&logoColor=white)
 
-### Backend
+### ⚙️ Backend
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6B6B?logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js\&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express\&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6B6B?logo=fastapi\&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens\&logoColor=white)
+![Multer](https://img.shields.io/badge/Multer-4CAF50?style=flat)
 
-### Database
+### 🗄️ Database
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![Multer](https://img.shields.io/badge/Multer-4CAF50?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql\&logoColor=white)
 
-### DevOps
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
+### ☁️ DevOps & Cloud
 
-### Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker\&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws\&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel\&logoColor=white)
 
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white)
+### 🛠️ Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode\&logoColor=white)
+
+---
+
+# 📌 Featured Projects
+
+| Project                             | Description                                                                                                                                 | Tech Stack                            |
+| ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------- |
+| 📝 **Full Stack Blog Platform**     | Blogging platform with separate Admin & User dashboards, authentication, rich text editor, CRUD operations, and REST APIs.                  | Next.js, Node.js, Express.js, MongoDB |
+| 🛒 **TechShop Affiliate Platform**  | Full-stack affiliate platform with admin dashboard, product & category management, backend APIs, and responsive UI.                         | React, Node.js, Express.js, MongoDB   |
+| 🎯 **Adaptive Placement Optimizer** | Java Swing desktop application that helps students optimize placement preparation using adaptive study planning and priority-based scoring. | Java, Java Swing                      |
 
 ---
 
 # 🌱 Currently Learning
 
-- Data Structures & Algorithms
-- System Design
-- Docker
-- AWS
-- Authentication & Authorization
+* Data Structures & Algorithms
+* System Design Fundamentals
+* AWS Cloud
+* Docker & Containerization
+* Authentication & Authorization
 
 ---
 
-# ⭐ Featured Projects
+# 🎯 2026 Goals
 
-## 📝 Full Stack Blog Platform
-
-**Tech:** Next.js • Node.js • Express.js • MongoDB
-
-- Separate Admin & User dashboards
-- Rich Text Editor
-- Authentication
-- REST APIs
-- Responsive UI
-
----
-
-## 🛒 TechShop Affiliate Platform
-
-**Tech:** React • Node.js • Express.js • MongoDB
-
-- Product & Category Management
-- Admin Dashboard
-- CRUD Operations
-- Backend API Integration
-- Responsive Design
-
----
-
-## 🎯 Adaptive Placement Optimizer
-
-**Tech:** Java • Java Swing
-
-Desktop application that helps students prepare efficiently for placements using adaptive study planning and priority-based scoring.
-
----
-
-# 📈 2026 Goals
-
-- 🚀 Build 2+ production-ready SaaS applications
-- 💯 Solve 100+ LeetCode problems
-- ☁️ Learn AWS & Cloud Deployment
-- 🤝 Contribute to Open Source
-- 📚 Strengthen System Design skills
+* 🚀 Build and deploy production-ready full-stack applications
+* ☁️ Master AWS cloud deployment
+* 💯 Strengthen Data Structures & Algorithms
+* 🌍 Contribute to Open Source
+* 📚 Deepen System Design knowledge
 
 ---
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=alishacreates&show_icons=true&theme=github_dark)
+![](https://github-readme-stats.vercel.app/api?username=alishacreates\&show_icons=true\&theme=github_dark)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=alishacreates&theme=github-dark-blue)
+![](https://github-readme-streak-stats.herokuapp.com/?user=alishacreates\&theme=github-dark-blue)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=alishacreates&layout=compact&theme=github_dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=alishacreates\&layout=compact\&theme=github_dark)
 
 ---
 
-# 💬 Motto
+# 💡 Fun Fact
 
-> **Build. Learn. Improve. Repeat.**
+> I enjoy building end-to-end web applications and continuously learning new technologies to create better software.
+
+---
+
+# 📫 Let's Connect
+
+💼 LinkedIn: https://www.linkedin.com/in/alisha-678550374
+
+📧 Email: [alishaofficial.xvi@gmail.com](mailto:alishaofficial.xvi@gmail.com)
+
+---
+
+### ✨ Motto
+
+> **Code. Learn. Build. Improve. Repeat.**
+
 
