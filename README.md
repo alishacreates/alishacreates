@@ -1,16 +1,19 @@
 <div align="center">
 
-# Hi 👋, I'm Alisha
+# Hi, I'm Alisha
 
 ### 💻 Full-Stack Developer | Computer Science Student
 
 I build modern, scalable, and responsive web applications using the **MERN Stack** and **Next.js**. I'm passionate about turning ideas into production-ready products by working across the frontend, backend, and database layers.
 
-🌱 Currently learning **System Design**, **AWS**, and **Docker**
-🚀 Open to **Software Engineering**, **Full-Stack Development**, and **Frontend Development** opportunities.
+Currently learning **System Design**, **AWS**, and **Docker**
+Open to **Software Engineering**, **Full-Stack Development**,  **Frontend Development** and **Backend Development** opportunities.
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel\&logoColor=white)](https://your-portfolio-url.com)
+[![Resume](https://img.shields.io/badge/Resume-4285F4?logo=googledrive\&logoColor=white)](https://your-resume-link.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/alisha-678550374)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:alishaofficial.xvi@gmail.com)
+
 
 </div>
 
