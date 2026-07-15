@@ -53,8 +53,6 @@ Open to **Software Engineering**, **Full-Stack Development**,  **Frontend Develo
 
 ### 🛠️ Tools
 
-### 🛠️ Tools
-
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
