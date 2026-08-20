@@ -27,22 +27,6 @@ Open to **Software Engineering, SDE, Backend, Full-Stack, and Cloud/Platform Eng
 
 ---
 
-## 💼 Experience
-
-### Full Stack Developer — EMPLE
-
-**Oct 2025 – Jul 2026**
-
-* Built an end-to-end **Quiz & Test Management Platform** and reusable **Question Bank Management System** supporting centralized question pools, secure assessments, and anti-cheating workflows.
-* Developed **20+ REST API endpoints** supporting authentication, quizzes, tests, coding questions, and content management.
-* Architected MongoDB schemas across **15+ collections**, improving application data organization and maintainability.
-* Deployed and integrated a self-hosted **Judge0** code-execution environment on **AWS EC2**, configuring its Docker, PostgreSQL, and Redis services and troubleshooting the Linux/server environment to support automated evaluation of coding submissions.
-* Diagnosed and resolved **50+ production issues** across frontend and backend systems involving APIs, CORS, environment configuration, deployment, and application logic.
-* Containerized and deployed backend services on **AWS ECS** using **Docker and Amazon ECR**, managing image builds, registry pushes, and rolling service deployments.
-* Deployed frontend applications through **AWS Amplify** and collaborated in an early-stage startup environment on debugging, code quality, and feature delivery.
-
----
-
 ## 🛠️ Tech Stack
 
 ### Languages
@@ -92,6 +76,22 @@ Open to **Software Engineering, SDE, Backend, Full-Stack, and Cloud/Platform Eng
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman\&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma\&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode\&logoColor=white)
+
+---
+
+## 💼 Experience
+
+### Full Stack Developer — EMPLE
+
+**Oct 2025 – Jul 2026**
+
+* Built an end-to-end **Quiz & Test Management Platform** and reusable **Question Bank Management System** supporting centralized question pools, secure assessments, and anti-cheating workflows.
+* Developed **20+ REST API endpoints** supporting authentication, quizzes, tests, coding questions, and content management.
+* Architected MongoDB schemas across **15+ collections**, improving application data organization and maintainability.
+* Deployed and integrated a self-hosted **Judge0** code-execution environment on **AWS EC2**, configuring its Docker, PostgreSQL, and Redis services and troubleshooting the Linux/server environment to support automated evaluation of coding submissions.
+* Diagnosed and resolved **50+ production issues** across frontend and backend systems involving APIs, CORS, environment configuration, deployment, and application logic.
+* Containerized and deployed backend services on **AWS ECS** using **Docker and Amazon ECR**, managing image builds, registry pushes, and rolling service deployments.
+* Deployed frontend applications through **AWS Amplify** and collaborated in an early-stage startup environment on debugging, code quality, and feature delivery.
 
 ---
 
