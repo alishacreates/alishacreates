@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Alisha 👋
+# Hi, I'm Alisha
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Software+Engineer;Full-Stack+%26+Backend+Development;Cloud+%26+Containerized+Deployments;Building+Reliable+Software+Systems" alt="Typing SVG" />
 
