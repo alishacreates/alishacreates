@@ -27,7 +27,7 @@ Open to **Software Engineering, SDE, Backend, Full-Stack, and Cloud/Platform Eng
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 
@@ -79,7 +79,7 @@ Open to **Software Engineering, SDE, Backend, Full-Stack, and Cloud/Platform Eng
 
 ---
 
-## 💼 Experience
+## Experience
 
 ### Full Stack Developer — EMPLE
 
@@ -95,9 +95,9 @@ Open to **Software Engineering, SDE, Backend, Full-Stack, and Cloud/Platform Eng
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🧑‍💻 DevLog — Developer Social Platform
+### DevLog — Developer Social Platform
 
 **Next.js • React • TypeScript • MongoDB • Mongoose • Auth.js • OAuth • Zod • Tailwind CSS**
 
@@ -112,6 +112,21 @@ A full-stack social platform for developers to **build in public**, document the
 
 ---
 
+### SkillBridge — Skill & Internship Matching Platform
+
+**Next.js • TypeScript • Express.js • PostgreSQL • Prisma • Zod • JWT • Tailwind CSS**
+
+A full-stack platform based on **Smart India Hackathon 2026 problem statement SIH26044**, designed to connect student skill profiles with relevant internships and industry opportunities.
+
+* Designed a normalized **PostgreSQL** data model for students, recruiters, skills, opportunities, applications, assessments, and learning resources using Prisma.
+* Built a layered **Express.js + TypeScript** backend with centralized validation, error handling, typed configuration, health checks, and automated API tests.
+* Implementing **JWT-based authentication and role-based access control** for students, recruiters, and administrators.
+* Building a weighted **skill-matching and gap-analysis engine** to rank opportunities based on required skills, preferred skills, eligibility, target-role relevance, and assessment performance.
+
+[![Repository](https://img.shields.io/badge/View_Repository-181717?logo=github&logoColor=white)](YOUR_SKILLBRIDGE_REPO_LINK)
+
+---
+
 ### 📝 Full Stack Blog Platform
 
 **Next.js • Node.js • Express.js • MongoDB • Tailwind CSS**
@@ -122,17 +137,7 @@ Full-stack blogging platform with separate **Admin and User portals**, authentic
 
 ---
 
-### 🛒 TechShop
-
-**Next.js • Node.js • Express.js • MongoDB • Tailwind CSS**
-
-Affiliate-based technology marketplace with separate **Admin and User dashboards**, backend APIs, product management, and MongoDB database architecture.
-
-[![Repository](https://img.shields.io/badge/View_Repository-181717?logo=github\&logoColor=white)](https://github.com/alishacreates/techshop-fullstack)
-
----
-
-## 📚 Currently Exploring
+## Currently Exploring
 
 * **Data Structures & Algorithms**
 * **System Design**
@@ -142,7 +147,7 @@ Affiliate-based technology marketplace with separate **Admin and User dashboards
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
