@@ -127,7 +127,7 @@ A full-stack platform based on **Smart India Hackathon 2026 problem statement SI
 
 ---
 
-### 📝 Full Stack Blog Platform
+### Full Stack Blog Platform
 
 **Next.js • Node.js • Express.js • MongoDB • Tailwind CSS**
 
