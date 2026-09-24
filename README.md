@@ -123,7 +123,7 @@ A full-stack platform based on **Smart India Hackathon 2026 problem statement SI
 * Implementing **JWT-based authentication and role-based access control** for students, recruiters, and administrators.
 * Building a weighted **skill-matching and gap-analysis engine** to rank opportunities based on required skills, preferred skills, eligibility, target-role relevance, and assessment performance.
 
-[![Repository](https://img.shields.io/badge/View_Repository-181717?logo=github&logoColor=white)](YOUR_SKILLBRIDGE_REPO_LINK)
+[![Repository](https://img.shields.io/badge/View_Repository-181717?logo=github&logoColor=white)](https://github.com/alishacreates/SkillBridge)
 
 ---
 
