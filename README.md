@@ -6,9 +6,6 @@
 
 **Computer Science Student · Building software from interface to infrastructure**
 
-I build full-stack applications, backend APIs, and containerized cloud deployments.  
-Previously worked on assessment software and AWS deployments at **EMPLE**.
-
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white)](https://alishacreates.vercel.app/)
