@@ -9,8 +9,6 @@
 I build full-stack applications, backend APIs, and containerized cloud deployments.  
 Previously worked on assessment software and AWS deployments at **EMPLE**.
 
-**🎯 Seeking Summer 2027 Software Engineering internships**
-
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white)](https://alishacreates.vercel.app/)
