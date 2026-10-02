@@ -156,8 +156,23 @@ A blogging application with separate **Admin and User portals**, authentication,
 | Data Structures & Algorithms in C++ | System design and API architecture | Cloud architecture |
 | Building stronger problem-solving habits | Data modeling and reliability | Distributed systems fundamentals |
 
+
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=alishacreates&show_icons=true&theme=tokyonight&hide_border=true" alt="Alisha's GitHub Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alishacreates&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=alishacreates&theme=tokyonight&hide_border=true" alt="Alisha's GitHub Contribution Streak" />
+
+</div>
+
+---
 <div align="center">
 
 ### Let's Build Something Useful
