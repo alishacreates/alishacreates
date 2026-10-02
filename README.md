@@ -6,8 +6,6 @@
 
 **Computer Science Student · Building software from interface to infrastructure**
 
-<br/>
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white)](https://alishacreates.vercel.app/)
 [![Resume](https://img.shields.io/badge/Resume-2563EB?style=for-the-badge&logo=googledrive&logoColor=white)](https://alishacreates.vercel.app/Alisha_Resume.pdf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alisha-cs/)
