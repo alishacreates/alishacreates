@@ -2,7 +2,7 @@
 
 # Hi, I'm Alisha 
 
-<img src="https://readme-typing-svg.demolab.com?font=Courgette&weight=400&size=26&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Full-Stack+%26+Backend+Development;APIs%2C+Databases+%26+Cloud+Deployments;Building+DevLog+%26+SkillBridge;Learning+by+Building" alt="Full-stack and backend development, APIs, databases, and cloud deployments" />
+<img src="https://readme-typing-svg.demolab.com?font=font=Dancing+Script&weight=400&size=26&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Full-Stack+%26+Backend+Development;APIs%2C+Databases+%26+Cloud+Deployments;Building+DevLog+%26+SkillBridge;Learning+by+Building" alt="Full-stack and backend development, APIs, databases, and cloud deployments" />
 
 **Computer Science Student · Building software from interface to infrastructure**
 
