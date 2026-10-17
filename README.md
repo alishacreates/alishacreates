@@ -24,8 +24,6 @@
 ###  DevLog
 **A social platform for developers who build in public**
 
-![Status](https://img.shields.io/badge/Status-In_Development-0EA5E9?style=flat-square)
-
 Document projects, share progress, showcase work, and discover other builders.
 
 **Implemented**
@@ -46,8 +44,6 @@ Document projects, share progress, showcase work, and discover other builders.
 
 ### SkillBridge
 **Connecting student skills with internship opportunities**
-
-![Status](https://img.shields.io/badge/Status-In_Development-0EA5E9?style=flat-square)
 
 Based on Smart India Hackathon 2026 problem statement **SIH26044**.
 
