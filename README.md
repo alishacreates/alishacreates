@@ -15,17 +15,6 @@
 
 ---
 
-<div align="center">
-  <img
-    src="coding-girl.png"
-    width="320"
-    alt="Girl coding at night"
-  />
-</div>
-
-
----
-
 
 ## Tech Stack
 
