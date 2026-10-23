@@ -13,6 +13,19 @@
 
 </div>
 
+---
+
+<img
+  align="right"
+  width="260"
+  src="https://raw.githubusercontent.com/alishacreates/alishacreates/main/assets/coding-girl.png"
+  alt="Girl coding at night"
+/>
+
+<br clear="right"/>
+
+---
+
 
 ## Tech Stack
 
