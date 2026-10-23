@@ -17,7 +17,7 @@
 
 <div align="center">
   <img
-    src="coding-girl"
+    src="coding-girl.png"
     width="320"
     alt="Girl coding at night"
   />
