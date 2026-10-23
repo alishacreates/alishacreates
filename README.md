@@ -23,7 +23,6 @@
   />
 </div>
 
-<br clear="right"/>
 
 ---
 
