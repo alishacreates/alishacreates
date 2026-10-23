@@ -55,17 +55,6 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 **Hands-on AWS experience:** EC2 · ECS · ECR · Amplify
-
----
-
-## Currently Exploring
-
-| 🧩 Problem Solving | ⚙️ Backend & Systems | ☁️ Infrastructure |
-| :--- | :--- | :--- |
-| Data Structures & Algorithms in C++ | System design and API architecture | Cloud architecture |
-| Building stronger problem-solving habits | Data modeling and reliability | Distributed systems fundamentals |
-
-
 ---
 
 ## 📊 GitHub Stats
