@@ -15,12 +15,13 @@
 
 ---
 
-<img
-  align="right"
-  width="260"
-  src="https://raw.githubusercontent.com/alishacreates/alishacreates/main/assets/coding-girl.png"
-  alt="Girl coding at night"
-/>
+<div align="center">
+  <img
+    src="YOUR_IMAGE_URL"
+    width="320"
+    alt="Girl coding at night"
+  />
+</div>
 
 <br clear="right"/>
 
