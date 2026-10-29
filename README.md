@@ -69,15 +69,3 @@
 
 </div>
 
----
-<div align="center">
-
-### Let's Build Something Useful
-
-Open to **Software Engineering internships**, **backend/full-stack opportunities**,  
-**hackathons**, and **engineering collaborations**.
-
-[![Connect](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alisha-cs/)
-[![Email](https://img.shields.io/badge/Get_In_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alishaofficial.xvi@gmail.com)
-
-</div>
